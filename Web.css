@@ -1,0 +1,66 @@
+
+/*This file is made in order to style my WebSample HTML file*/
+h1
+    {
+    color: red;
+    font-size: 45px;
+    border: 3px dotted purple;
+    border-style: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20%;
+
+    }
+
+#Spl
+    {
+    border-width: 10px;
+    }
+ol
+    {
+        color: rgba(0, 200, 10, 0.9);
+    }
+ul
+    {
+        color: #3700ff;
+    }
+
+body
+    {
+    background: url(https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/03/salman-khan-1584090953.jpg);
+    background-repeat: no-repeat;
+    }
+
+#special
+    {
+    background: yellow;
+    }
+#spl
+{
+    background: green;
+    
+}
+.select
+    {
+    background: black;
+    }
+
+img
+{
+    border-color: rgb(0,0,255);
+    border-width: 4px;
+    border-style: dotted;
+    margin-left: 10%;
+    
+}
+
+p{
+    font-size: 10px;
+}
+
+span{
+    font-size: 4.0em;
+}
+
+img{
+    size: 10in;
+}
